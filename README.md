@@ -12,4 +12,4 @@ La API del backend tiene los siguientes endpoints principales para la gestión d
 
 Enlace al repositorio: [Repositorio en GitHub](https://github.com/LeoUni24/gestion-restaurante)
 
-Participación del equipo: Integrante 1: Leonardo Trejos. Integrante 2: Nahir Gutierrez. Integrante 3: Ilisch Miranda. Integrante 4: José.
+Participación del equipo: Integrante 1: Leonardo Trejos. Integrante 2: Nahir Gutierrez. Integrante 3: Ilisch Miranda. Integrante 4: José Rivera.
