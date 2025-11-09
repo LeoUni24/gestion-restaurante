@@ -1,6 +1,6 @@
 Sistema de Gestión de Restaurante
 
-Este proyecto es un sistema de gestión para un restaurante, desarrollado con Strapi en el backend y HTML/JS en el frontend. Permite manejar productos, ventas, reservaciones y control de caja de manera sencilla y eficiente. Contiene la siguiente estructura: backend/ con Strapi (api, config, package.json, package-lock.json, .env.example) y frontend/ con el index.html y script.js. No se incluyen las carpetas node_modules ni .tmp, que se generan al instalar dependencias.
+Este proyecto es un sistema de gestión para un restaurante, desarrollado con Strapi en el backend y HTML/JS en el frontend. Permite manejar productos, ventas, reservaciones y control de caja de manera sencilla y eficiente. 
 
 Requisitos previos: Node.js ≥ 16, NPM ≥ 8, navegador web para probar el frontend y Git para clonar el repositorio.
 
